@@ -1,0 +1,16 @@
+Zeliot is a deep-tech company providing a real-time data streaming platform, called Condense, for enterprises, especially in connected mobility (vehicles, IoT devices) and industries, enabling instant data insights, scalable applications, and digital transformation through edge computing and APIs, with key clients like Royal Enfield. 
+What Zeliot Does:
+Real-Time Data Streaming: Offers a platform (Condense) to process and analyze data as it's generated, using technologies like Kafka.
+IoT & Mobility Solutions: Focuses on connected vehicles, providing fleet management, health monitoring, and utilization insights for OEMs and businesses.
+Edge Computing: Allows data processing directly on devices (edge), reducing latency and improving decision-making.
+Scalable Platform: Provides a robust infrastructure for handling massive amounts of data with built-in security. 
+Key Products & Features:
+Condense: The core data streaming platform.
+Condense Edge: For processing data at the edge.
+APIs: Offers over 450 APIs for integration.
+Telematics Dashboards: Tools for fleet performance visualization. 
+Who Uses It:
+Automotive OEMs (like Royal Enfield)
+Connected Homes & Industries
+Telematics Service Providers 
+In essence, Zeliot helps businesses move from raw data to instant, actionable intelligence for smarter operations and innovation. 
